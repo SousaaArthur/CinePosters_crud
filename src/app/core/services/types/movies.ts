@@ -1,8 +1,9 @@
 export interface Movies{
-  id?: number;
+  id?: String;
   name: string;
   category: String;
   year: number;
-  price: number;
+  assessment: number;
+  description: String;
   image: String;
 }

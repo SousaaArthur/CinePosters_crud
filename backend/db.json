@@ -1,0 +1,40 @@
+{
+  "movies": [
+    {
+      "id": "3048",
+      "name": "Interestelar",
+      "year": "2014",
+      "category": "Ficção Científica",
+      "assessment": "5.0",
+      "description": "Após ver a Terra consumindo boa parte de suas reservas naturais, um grupo de astronautas recebe a missão de verificar possíveis planetas para receberem a população mundial, possibilitando a continuação da espécie. Cooper (Matthew McConaughey) é chamado para liderar o grupo e aceita a missão sabendo que pode nunca mais ver os filhos. Ao lado de Brand (Anne Hathaway), Jenkins (Marlon Sanders) e Doyle (Wes Bentley), ele seguirá em busca de uma nova casa. Com o passar dos anos, sua filha Murph (Mackenzie Foy e Jessica Chastain) investirá numa própria jornada para também tentar salvar a população do planeta.",
+      "image": "https://br.web.img3.acsta.net/c_310_420/pictures/14/10/31/20/39/476171.jpg"
+    },
+    {
+      "id": "5006",
+      "name": "Vingadores: Ultimato",
+      "year": "2019",
+      "category": "Ação",
+      "assessment": "3.9",
+      "description": "Em Vingadores: Ultimato, após Thanos eliminar metade das criaturas vivas em Vingadores: Guerra Infinita, os heróis precisam lidar com a dor da perda de amigos e seus entes queridos. Com Tony Stark (Robert Downey Jr.) vagando perdido no espaço sem água nem comida, o Capitão América/Steve Rogers (Chris Evans) e a Viúva Negra/Natasha Romanov (Scarlett Johansson) precisam liderar a resistência contra o titã louco.",
+      "image": "https://br.web.img2.acsta.net/c_310_420/pictures/19/04/26/17/30/2428965.jpg"
+    },
+    {
+      "id": "8351",
+      "name": "Homem-Aranha no Aranhaverso",
+      "year": "2019",
+      "category": "Animação",
+      "assessment": "5.0",
+      "description": "Em Homem-Aranha no Aranhaverso, Miles Morales é um jovem negro do Brooklyn que se tornou o Homem-Aranha inspirado no legado de Peter Parker, já falecido. Entretanto, ao visitar o túmulo de seu ídolo em uma noite chuvosa, ele é surpreendido com a presença do próprio Peter, vestindo o traje do herói aracnídeo sob um sobretudo. A surpresa fica ainda maior quando Miles descobre que ele veio de uma dimensão paralela, assim como outras versões do Homem-Aranha.",
+      "image": "https://br.web.img3.acsta.net/c_310_420/pictures/18/12/05/16/28/3718855.jpg"
+    },
+    {
+      "id": "6756",
+      "name": "Cidade de Deus",
+      "year": "2002",
+      "category": "Policial",
+      "assessment": "4.6",
+      "description": "Dadinho (Douglas Silva) e Buscapé são grandes amigos, que cresceram juntos imersos em um universo de muita violência. Na Cidade de Deus, favela carioca conhecida por ser um dos locais mais violentos do Rio de Janeiro, os caminhos das duas crianças divergem, quando um se esforça para se tornar um fotógrafo e o outro o chefe do tráfico. Buscapé (Alexandre Rodrigues) é um jovem pobre, negro e muito sensível, que vive amedrontado com a possibilidade de se tornar um bandido, e acaba sendo salvo de seu destino por causa de seu talento como fotógrafo, o qual permite que siga carreira na profissão. É através de seu olhar atrás da câmera que Buscapé analisa o dia-a-dia da favela onde vive, enquanto Dadinho, agora Zé Pequeno (Leandro Firmino), se torna o temido chefe do tráfico da região, continuando com o legado de violência que remonta a décadas anteriores - e parece ser infinita. Considerado um dos melhores filmes da história do cinema brasileiro.",
+      "image": "https://br.web.img2.acsta.net/c_310_420/medias/nmedia/18/87/02/76/19871246.jpg"
+    }
+  ]
+}
